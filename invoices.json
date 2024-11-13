@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1719061770549",
+    "selectedClient": "Petrokamen",
+    "selectedDestination": "Milkov",
+    "selectedMaterial": "8-16",
+    "selectedQuarry": "Leszna",
+    "quantity": "3.3",
+    "transport": 24,
+    "selectedMaterialPrice": 85,
+    "totalSum": "359.70",
+    "date": "06-06-2024"
+  },
+  {
+    "id": "1719061873235",
+    "selectedClient": "Sypke",
+    "selectedDestination": "Żermanice",
+    "selectedMaterial": "0-31",
+    "selectedQuarry": "Leszna",
+    "quantity": "4.5",
+    "transport": 18,
+    "selectedMaterialPrice": 67,
+    "totalSum": "382.50",
+    "date": "04-10-2023"
+  },
+  {
+    "id": "1719064820383",
+    "selectedClient": "Petrokamen",
+    "selectedDestination": "Żermanice",
+    "selectedMaterial": "2-8",
+    "selectedQuarry": "Leszna",
+    "quantity": "10.5",
+    "transport": 18,
+    "selectedMaterialPrice": 92,
+    "totalSum": "1155.00",
+    "date": "22-06-2024"
+  },
+  {
+    "id": "1720974852926",
+    "selectedClient": "Petrokamen",
+    "selectedDestination": "Jablunkov",
+    "selectedMaterial": "2-8",
+    "selectedQuarry": "Leszna",
+    "quantity": "12",
+    "transport": 21,
+    "selectedMaterialPrice": 95,
+    "totalSum": "1392.00",
+    "date": "14/07/2024"
+  },
+  {
+    "id": "1720975578510",
+    "selectedClient": "Petrokamen",
+    "selectedDestination": "Havirov",
+    "selectedMaterial": "0-4",
+    "selectedQuarry": "Leszna",
+    "quantity": "12",
+    "transport": 19,
+    "selectedMaterialPrice": 38,
+    "totalSum": "684.00",
+    "date": "14/07/2024"
+  }
+]
